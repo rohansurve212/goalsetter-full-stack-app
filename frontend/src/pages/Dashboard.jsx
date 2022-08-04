@@ -19,7 +19,7 @@ const Dashboard = () => {
 
   useEffect(() => {
     if (isError) {
-      console.log(message);
+      //console.log(message);
     }
 
     if (!user) {
@@ -43,7 +43,6 @@ const Dashboard = () => {
         <h1>Welcome {user && user.name}</h1>
         <p>Goals Dashboard</p>
       </section>
-
       <GoalForm />
 
       <section className="content">
