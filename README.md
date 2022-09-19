@@ -1,4 +1,4 @@
-# Welcome to GoalSetter application
+# Welcome to GoalSetter
 
 > This is a goal setting application built with the MERN stack & Redux Toolkit.
 
